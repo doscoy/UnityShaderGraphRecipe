@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5E05491E-A660-AA54-4022-2BA325875EE1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AutoYRotate.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AutoYRotate.cs" Line="18" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityShaderGraphRecipe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AutoYRotate.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a81356a8-af8c-4af4-ac82-53eba5a4c96c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
